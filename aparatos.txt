@@ -1,0 +1,2 @@
+Refrigerador;400.0;8.0
+Television;100.0;5.0
